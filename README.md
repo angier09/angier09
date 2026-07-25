@@ -1,78 +1,97 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hateem+%F0%9F%91%8B;Developer+%7C+Gamer+%7C+Lifelong+Learner;Building+cool+stuff+in+C%23+%26+C%2B%2B;Always+shipping%2C+always+leveling+up" />
-</h1>
+<h1 align="center">Hateem Khurram</h1>
+<h3 align="center">Computer Science Graduate — AI/ML, Full-Stack & Data Engineering</h3>
 
 <p align="center">
+  <a href="https://angier09.github.io/CV-Website"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hateem-khurram-931662253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hateemkhurram199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Location-USA-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
 ---
 
-### 👀 About Me
+### About
 
-- 🎮 Interested in **development & gaming**
-- 📚 Unlocking a universe of endless knowledge
-- 💻 Passionate about expanding my computer science skills
-- 🌱 I believe practical experience is the fastest path to real mastery — so I'm building real projects, not just watching tutorials
+Computer Science graduate (CGPA 3.6, FAST-NUCES) building production-style systems across AI/ML, data engineering, and full-stack development — a bilingual OCR pipeline for legal documents, a dbt/DuckDB analytics platform with statistical A/B testing, and REST APIs powering real-time mobile apps.
 
-### 🚀 Currently
-
-- Sharpening my skills in NLP,AI and modern dev tools
-- Propelling myself toward the forefront of technological innovation
+Currently: AI/ML Engineering Intern at **KalPay**, working on document intelligence pipelines.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,html,css,git,github,vscode,unity" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,oracle" />
+</p>
+
+**AI / ML / Data Engineering**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Tools & Practices**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### Featured Projects
+
+**[RetailPulse — Sales Analytics & Experimentation Platform](https://github.com/angier09)**
+`Python` `dbt` `DuckDB` `Streamlit` `Tableau`
+End-to-end analytics pipeline transforming raw e-commerce data into layered dbt models, validated with 93/93 automated tests across 99K+ orders. Includes a simulated discount A/B test computing confidence intervals, p-values, and Cohen's d on $15.4M+ in revenue — and a Streamlit dashboard for stakeholders.
+
+**[SERENELLA — Mental Health Assistance App](https://github.com/angier09)**
+`React Native` `TypeScript` `Supabase` `Node.js`
+Cross-platform mobile app for individuals managing stress, anxiety, and depression. Features SOS alerting via Expo SMS and live location sharing, plus DAS/BAI clinical assessment scoring with Chart.js visualizations — improved user engagement by 25%.
+
+**[Cheap Rides — Ride-Sharing Platform](https://github.com/angier09)**
+`ASP.NET Core MVC` `C#` `LINQ` `SQL`
+Full-stack platform connecting riders and drivers, with a designed domain model, ERD, and RESTful APIs handling bookings, rides, and accounts.
+
+---
+
+### Experience
+
+| Role | Organization | Period |
+|---|---|---|
+| AI/ML Engineering Intern | KalPay (Remote) | Mar 2026 – Jun 2026 |
+| Teaching Assistant | FAST-NUCES, Faisalabad | Aug 2023 – Jun 2024 |
+
+At KalPay, built a bilingual (Arabic/English) OCR pipeline using Python, OpenCV, and Tesseract — including a preprocessing stage (CLAHE, deskewing, Otsu binarization, watermark suppression) and a legal-structure parser that converts scanned documents into structured Chapter → Section → Article → Clause JSON for legal AI and RAG applications.
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angier09&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angier09&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angier09&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angier09&show_icons=true&theme=default&hide_border=true&hide_title=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angier09&layout=compact&theme=default&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### Education
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/angier09/angier09/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+**Bachelor of Science in Computer Science** — National University of Computer & Emerging Sciences (FAST-NUCES), Faisalabad
+CGPA 3.6/4.0 | 2021 – 2025 | Dean's List of Honor · Merit Scholarship Recipient
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by — always open to collaborating on interesting projects!</i>
-</p>
+<p align="center"><i>Open to full-stack, AI/ML, and data engineering opportunities — feel free to reach out.</i></p>
