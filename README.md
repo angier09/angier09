@@ -1,10 +1,11 @@
-<h1 align="center">Hateem Khurram</h1>
-<h3 align="center">Computer Science Graduate — AI/ML, Full-Stack & Data Engineering</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Hateem+%F0%9F%91%8B;Computer+Science+Graduate;AI%2FML+%7C+Full-Stack+%7C+Data+Engineering;Building+production-style+systems" />
+</h1>
 
 <p align="center">
-  <a href="https://angier09.github.io/CV-Website"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hateem-khurram-931662253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hateemkhurram199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://angier09.github.io/hateemPortfolio/"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hateem-khurram-931662253"><img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hateemkhurram199@gmail.com"><img src="https://img.shields.io/badge/Gmail-2ECC71?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -13,7 +14,7 @@
 
 Computer Science graduate (CGPA 3.6, FAST-NUCES) building production-style systems across AI/ML, data engineering, and full-stack development — a bilingual OCR pipeline for legal documents, a dbt/DuckDB analytics platform with statistical A/B testing, and REST APIs powering real-time mobile apps.
 
-Currently: AI/ML Engineering Intern at **KalPay**, working on document intelligence pipelines.
+Experience: AI/ML Engineering Intern at **KalPay**, worked on document intelligence pipelines.
 
 ---
 
@@ -81,8 +82,12 @@ At KalPay, built a bilingual (Arabic/English) OCR pipeline using Python, OpenCV,
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angier09&show_icons=true&theme=default&hide_border=true&hide_title=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angier09&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angier09&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=2ECC71&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angier09&layout=donut&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angier09&theme=dracula&hide_border=true&background=0D1117&ring=A855F7&fire=2ECC71&currStreakLabel=2ECC71" />
 </p>
 
 ---
