@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hateem-khurram-931662253"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:hateemkhurram199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Location-Pakistan-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white">
+  <img src="https://img.shields.io/badge/Location-USA-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ### 🚀 Currently
 
-- Sharpening my skills in C#, C++, and modern dev tools
+- Sharpening my skills in NLP,AI and modern dev tools
 - Propelling myself toward the forefront of technological innovation
 
 ---
