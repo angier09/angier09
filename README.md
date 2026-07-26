@@ -9,6 +9,7 @@
 </p>
 
 ---
+<img width="1989" height="791" alt="ChatGPT Image Jul 25, 2026, 07_58_30 PM" src="https://github.com/user-attachments/assets/b9beea50-309a-48f4-8436-8c7aa8f11ce3" />
 
 ### About
 
@@ -80,11 +81,6 @@ At KalPay, built a bilingual (Arabic/English) OCR pipeline using Python, OpenCV,
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angier09&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=2ECC71&text_color=C9D1D9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angier09&layout=donut&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angier09&theme=dracula&hide_border=true&background=0D1117&ring=A855F7&fire=2ECC71&currStreakLabel=2ECC71" />
